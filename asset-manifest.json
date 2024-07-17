@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/puwakhola-host/static/css/main.e0bc2b6f.css",
+    "main.js": "/puwakhola-host/static/js/main.561cbe21.js",
+    "index.html": "/puwakhola-host/index.html",
+    "main.e0bc2b6f.css.map": "/puwakhola-host/static/css/main.e0bc2b6f.css.map",
+    "main.561cbe21.js.map": "/puwakhola-host/static/js/main.561cbe21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0bc2b6f.css",
+    "static/js/main.561cbe21.js"
+  ]
+}
